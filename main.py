@@ -1,0 +1,3 @@
+import printFunctions
+
+printFunctions.welcome()
