@@ -1,6 +1,3 @@
-import mathFunctions
+import printFunctions
 
-a = 5
-b = 4
-c = mathFunctions.substraction(a, b)
-print(c)
+printFunctions.welcome()
